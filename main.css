@@ -1,0 +1,13 @@
+h1{
+  color:black;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+
+.images{
+  display: inline-block;
+  width: 15rem;
+  height: 15rem;
+  padding-top: 25px;
+}
